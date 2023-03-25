@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+.flex{
+	display: flex;
+}
+nav{
+	justify-content: center;
+	background-color: black;
+	color: white;
+}
+main{
+	padding-top: 5vw;
+	justify-content: center;
+	background-color: red;
+	height: 100vw;
+	gap: 10vw;
+}
+.label{
+	flex-direction: column;
+}
